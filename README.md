@@ -1,5 +1,5 @@
 # clinic-website
-this is a website for a clinic.
+This is a website for a clinic.
 
 getting started
 this includes all the necessary files like html,bootstrap,css and javascript files for creating a website. user can alter the data for his need.
